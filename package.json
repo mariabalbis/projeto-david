@@ -1,0 +1,11 @@
+{
+  "name": "meuprojeto",
+  "version": "1.0.0",
+  "description": "Projeto Final (Aplicação CRUD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "maria balbis cardoso",
+  "license": "ISC"
+}
